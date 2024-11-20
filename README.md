@@ -90,4 +90,4 @@ docker compose up
 
 ## APIs
 
-![swagger](swagger.png)
+![swagger](public/img/swagger.png)
